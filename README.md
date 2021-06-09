@@ -1,5 +1,5 @@
 <h1 align="center">assalamu'alaikum <img src="https://livedoor.blogimg.jp/news4wide/imgs/c/f/cf57da9b.gif" width="40px" alt="hi"><br>I'm Dandy Uching Budu 😇 </h1>
-<p align="center">
+<p align="center"><img src="https://i.ibb.co/84mmYVS/ezgif-com-gif-maker-2.gif" alt="ezgif-com-gif-maker-2" border="0" />
   <img src="https://avatars.githubusercontent.com/u/34529416?s=400&u=d77b9c85fc9944825b075fd32be56687077d09e4&v=4" />
 </p>
 
