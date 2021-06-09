@@ -1,4 +1,4 @@
-<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm Dandy Uching Budu 😇 </h1>
+<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm zeeone 😇 </h1>
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/34529416?s=400&u=d77b9c85fc9944825b075fd32be56687077d09e4&v=4" />
 </p>
@@ -7,16 +7,17 @@
 -  I am 17 years old 
 -  I am not programmer
 -  I like nge Fork so don't bapers ok
-   
+   https://youtu.be/zaXnqEORVVM
+   https://youtu.be/yg51_Z1qL-g
 
 <h1 align="center"> Connect with me
 <p align="center">
   <a href="https://instagram.com/DandyHayate"><img src="https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=black"/> 
-  <a href="https://wa.me/message/SJGWPAW7OHHXK1"><img src="https://img.shields.io/badge/WhatsApp-FFD700?style=for-the-badge&logo=whatsapp&logoColor=black" />
-  <a href="https://www.facebook.com/profile.php?id=100015526687857"><img src="https://img.shields.io/badge/Facebook-%FFD700.svg?&style=for-the-badge&logo=facebook&logoColor=black" />
+  <a href="shorturl.at/jzBIT"><img src="https://img.shields.io/badge/WhatsApp-FFD700?style=for-the-badge&logo=whatsapp&logoColor=black" />
+  <a href="https://m.facebook.com/photo.php?fbid=2225284347524261&id=100001281536035"><img src="https://img.shields.io/badge/Facebook-%FFD700.svg?&style=for-the-badge&logo=facebook&logoColor=black" />
   <a href="https://t.me/DandyHayate"><img src="https://img.shields.io/badge/Telegram-%FFD700?&style=for-the-badge&logo=telegram&logoColor=black" /> <br>
   <a href="https://github.com/DandyHayate"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
+  <a href="https://youtube.com/channel/UCWNKR_INGuazISAO5zd7wOQ"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
 </p>
 
 
@@ -26,10 +27,10 @@
 <p align="center"><a href="https://github.com/DandyHayate"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DandyHayate&theme=radical&layout=compact"></a></p> 
 
 ## Repo Stats
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=Alpha-userbot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=Alpha-Api&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=Lord-Userbot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=DandyHayate&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=Botlogin&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=BC-LIFF&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=CakarKucingJS&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=DandyHayate&repo=DandyHayateSB&theme=nightowl)
 
 
 <p>
