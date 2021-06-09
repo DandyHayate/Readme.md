@@ -1,6 +1,6 @@
 <h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm zeeone 😇 </h1>
 <p align="center">
-  <img src="https://a.top4top.io/p_1966tfto21.jpg" />
+  <img src="https://avatars.githubusercontent.com/u/34529416?s=400&u=d77b9c85fc9944825b075fd32be56687077d09e4&v=4" />
 </p>
 
 -  My name is zeeone 
